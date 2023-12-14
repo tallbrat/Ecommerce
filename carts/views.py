@@ -261,4 +261,4 @@ def complete_remove_wishlist(request,product_id):
 
 #this is demo
 
-#This is demo for testing...
+#This is a demo file to check multiple collaboration
